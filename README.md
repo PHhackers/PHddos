@@ -6,7 +6,8 @@
 
 **HOW TO INSTALL AND USE**
 
-git clone https://github.com/PHhackers/PHddos/
+git clone https://github.com/PHhackers/PHddos/  
+
 cd PHddos   
 
 python3 PHddos.py   
